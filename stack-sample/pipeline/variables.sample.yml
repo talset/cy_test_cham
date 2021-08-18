@@ -23,5 +23,6 @@ terraform_storage_bucket_name: ($ organization_canonical $)-terraform-remote-sta
 terraform_storage_bucket_path: ($ project $)
 
 # Cycloid events configuration
-api_key: ((custom_cy_cham_api_key.key))
+api_key: ((custom_toto_api_key.key))
+api_test: toto
 api_url: https://http-api.cycloid.io
