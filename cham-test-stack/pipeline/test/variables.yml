@@ -5,6 +5,7 @@ git_ssh_key: ((ssh_step-by-step.ssh_key))
 code_git_public_repository: 'https://github.com/cycloid-community-catalog/docs-step-by-step-stack.git'
 code_git_branch: code
 git_repository: 'git@github.com:ChamMach/cy_test_cham.git'
+config_git_branch: config
 stack_git_branch: stacks
 aws_access_key: ((aws_step-by-step.access_key))
 aws_secret_key: ((aws_step-by-step.secret_key))
