@@ -12,3 +12,5 @@ aws_secret_key: ((aws_step-by-step.secret_key))
 aws_default_region: eu-west-1
 terraform_storage_bucket_name: cycloid-sandbox-terraform-remote-state
 terraform_storage_bucket_path: cham-test-stack
+api_key: ((custom_cyclobot-api-key.key))
+api_url: 'https://http-api.cycloid.io'
